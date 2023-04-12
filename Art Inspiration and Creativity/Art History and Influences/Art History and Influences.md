@@ -1,1 +1,3 @@
-# Art History and Influences
+# [[Art History and Influences]]
+
+Understanding art history and the influences that have shaped the development of different artistic styles and movements can provide a rich source of inspiration for artists. By learning about the cultural, historical, and social contexts of various art periods, artists can gain a deeper appreciation for the diverse range of ideas, techniques, and themes that have informed the creation of art throughout history.
