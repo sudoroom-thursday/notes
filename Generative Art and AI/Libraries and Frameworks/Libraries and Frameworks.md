@@ -1,2 +1,5 @@
+# [[Libraries and Frameworks]]
 
--   [[Processing]]
+To get started with generative art and AI, artists can explore various programming frameworks and libraries, such as:
+
+- [[Processing]]: A versatile and beginner-friendly creative coding
